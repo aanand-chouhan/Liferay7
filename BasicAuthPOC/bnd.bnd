@@ -1,0 +1,4 @@
+Bundle-Name: BasicAuthPOC
+Bundle-SymbolicName: BasicAuthPOC
+Bundle-Version: 1.0.0
+Export-Package: BasicAuthPOC.constants
