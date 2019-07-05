@@ -1,0 +1,4 @@
+Bundle-Name: Create_Event-Form
+Bundle-SymbolicName: com.vy.cef
+Bundle-Version: 1.0.0
+Export-Package: com.vy.cef.constants
