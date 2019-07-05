@@ -1,0 +1,6 @@
+Bundle-Name: ConfigurationPageDemo
+Bundle-SymbolicName: com.vy.configuration
+Bundle-Version: 1.0.0
+Export-Package: com.vy.configuration.constants
+
+-metatype: *
